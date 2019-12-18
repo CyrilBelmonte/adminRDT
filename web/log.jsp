@@ -27,7 +27,7 @@
 <div id="wrapper" class="container">
     <div id="menu" class="container">
         <ul>
-            <li><a href="index.jsp" accesskey="1">etat infrastructure</a></li>
+            <li><a href="index.jsp" accesskey="1">Equipments status</a></li>
             <li class="current_page_item"><a href="./log.jsp" accesskey="1">Log</a></li>
         </ul>
     </div>
@@ -39,6 +39,7 @@
                     <p>By date between : <input type="date" name="date_1"/> and <input type="date" name="date_2"/></p>
                     <p>By event name : <input type="text" name="events"/></p>
                     <p>By localisation name : <input type="text" name="localisation"/></p>
+                    <p><input type="submit" value="find"></p>
                 </fieldset>
             </form>
         </div>

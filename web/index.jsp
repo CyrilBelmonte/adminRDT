@@ -24,7 +24,7 @@
 <div id="wrapper" class="container">
     <div id="menu" class="container">
         <ul>
-            <li class="current_page_item"><a href="#" accesskey="1">etat infrastructure</a></li>
+            <li class="current_page_item"><a href="#" accesskey="1">Equipments status</a></li>
             <li><a href="log.jsp" accesskey="1">Log</a></li>
         </ul>
     </div>
